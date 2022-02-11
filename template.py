@@ -2,7 +2,7 @@
 import os
 from pwn import *
 
-BIN = "[CHALL_NAME"]
+BIN = "[CHALL_NAME]"
 HOST = "chall.remote.ctf"
 PORT = 42666
 USER = "USER"
